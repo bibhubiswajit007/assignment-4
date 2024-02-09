@@ -33,7 +33,7 @@ int main (){
 
 
     }
-    printf("The interest rate is :%f",ir);
+    printf("The interest is :%f",ir);
     return 0;
 
 
