@@ -6,8 +6,7 @@ int main (){
     scanf("%d",&cb);
     printf("Enter the credit score:");
     scanf("%d",&cs);
-    int flag=cs<600;
-    switch(flag){
+    switch(cs<600){
         case 1:
         ir=0.15*cb;
 
